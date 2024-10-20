@@ -1,3 +1,4 @@
+![MasterHead](https://raw.githubusercontent.com/SuperChargedCoder/SuperChargedCoder/refs/heads/main/Git%20Profile%20Resources/Git%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shubham Chaurasia</h1>
 <h3 align="center">A passionate QA Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://blog.openreplay.com/images/testing-principles-levels-and-libraries/images/image1.gif">
