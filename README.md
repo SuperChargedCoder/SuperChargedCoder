@@ -1,4 +1,3 @@
-![MasterHead](https://raw.githubusercontent.com/SuperChargedCoder/Hello-world/refs/heads/main/In%20God%20I%20trust%2C%20everyting%20else%20I%20Test..png?token=GHSAT0AAAAAACZGUHEQT4VDGLTP3SBIKUWEZYUXREQ)
 <h1 align="center">Hi 👋, I'm Shubham Chaurasia</h1>
 <h3 align="center">A passionate QA Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://blog.openreplay.com/images/testing-principles-levels-and-libraries/images/image1.gif">
