@@ -72,4 +72,12 @@
   </a> 
   <a href="" target="_blank" rel="noreferrer">   <img src="https://github.com/user-attachments/assets/d012ffb8-d9bd-4763-8478-067b70493eec" alt="ECLIPSE" width="60" height="40"/></a> 
   <a href="" target="_blank" rel="noreferrer">   <img src="https://github.com/user-attachments/assets/782d22c8-fa6f-466f-9eaf-a4ff91524a57" alt="VISUAL STUDIO CODE" width="40" height="40"/></a> 
+
+  <a href="https://copilot.github.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/9495557?s=200&v=4" alt="GitHub Copilot" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="40" height="40"/>
+  </a>
 </p>
