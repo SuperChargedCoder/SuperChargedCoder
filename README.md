@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **theshubhamchaurasia@gmail.com**
 
-- ⚡ Fun fact **I am equally passionate about automating tests and planning travel adventures, making me a pro at automating both software and travel itineraries!**
+- ✈️ A test automation pro by day, **a travel planner by heart!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
