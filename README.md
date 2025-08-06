@@ -1,11 +1,11 @@
 ![MasterHead](https://raw.githubusercontent.com/SuperChargedCoder/SuperChargedCoder/refs/heads/main/Git%20Profile%20Resources/Git%20Banner.png)
-<h1 align="center">Hi 👋, I'm Shubham Chaurasia</h1>
-<h3 align="center">A passionate QA Engineer from India</h3>
+<h1 align="center">Hey, I'm Shubham Chaurasia</h1>
+<h3 align="center">A passionate Test Automation Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://blog.openreplay.com/images/testing-principles-levels-and-libraries/images/image1.gif">
 
 - 🔭 I’m currently working on **Automation Testing**
 
-- 🌱 I’m currently learning **AI Testing, Cypress, Playwright, CI/CD Pipelines**
+- 🌱 I’m currently learning **Playwright, and CI/CD Pipelines**
 
 - 👯 I’m looking to collaborate on **Web and API Automation**
 
